@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/display.tsx","./src/main.tsx","./src/supabaseclient.ts","./src/vite-env.d.ts","./src/components/cajadisplay.tsx","./src/components/cajasbuttons.tsx","./src/components/displaypage.tsx","./src/services/cajasservice.ts"],"errors":true,"version":"5.7.3"}
